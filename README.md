@@ -1,6 +1,6 @@
 [![codewars](https://www.codewars.com/users/str0yka/badges/large)](https://www.codewars.com/users/str0yka) 
 <a href="#debabin-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoolIceee&show_icons=true&locale=en&layout=compact&theme=react" alt="CoolIceee" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=str0yka&show_icons=true&locale=en&layout=compact&theme=react" alt="CoolIceee" />
 </a>
 
 <br>

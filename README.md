@@ -103,9 +103,7 @@
       </a>
       <br>Bootstrap
     </td>
-  </tr> 
-    <tr>
-      <td align="center" width="110" height="90"> 
+    <td align="center" width="110" height="90"> 
         <a href="#debabin-stack" >
           <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
         </a>
@@ -123,7 +121,7 @@
         </a>
         <br>Tailwind
       </td>
-    </tr> 
+  </tr> 
 </table>
 
 ***

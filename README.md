@@ -126,8 +126,8 @@
 
 ***
  ### **Contact** 
-<a class="padding-right:16px" href="https://t.me/stroykov"><img src="https://img.icons8.com/fluency/512/telegram-app.png" alt="telegram" width="40" height="40" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>
-<a class="padding-right:16px" href="mailto:warface212@gmail.com"><img src="https://img.icons8.com/3d-fluency/512/gmail.png" alt="mail.ru" width="40" height="40" title="gmail" data-canonical-src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" style="max-width: 100%;">
+<a class="padding-right:16px" href="https://t.me/stroykov"><img src="https://img.icons8.com/?size=512&id=9R1sV3QvY18K&format=png" alt="telegram" width="40" height="40" title="telegram" data-canonical-src="https://cdn.worldvectorlogo.com/logos/telegram.svg" style="max-width: 100%;"></a>
+<a class="padding-right:16px" href="mailto:warface212@gmail.com"><img src="https://img.icons8.com/?size=512&id=rUgzXdXFnhmg&format=png" alt="mail.ru" width="40" height="40" title="gmail" data-canonical-src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" style="max-width: 100%;">
 
 <!--
 **str0yka/str0yka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

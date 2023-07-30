@@ -106,12 +106,6 @@ Frontend Developer from Moscow 💅
       </a>
       <br>Redux
     </td>
-     <td align="center" width="110" height="90">
-      <a href="#str0yka-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
     <td align="center" width="110" height="90"> 
       <a href="#str0yka-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
@@ -137,6 +131,12 @@ Frontend Developer from Moscow 💅
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
+    </td>
+       <td align="center" width="110" height="90">
+      <a href="#str0yka-stack">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
+      </a>
+      <br>MUI
     </td>
          <td align="center" width="110" height="90">
       <a href="#str0yka-stack">

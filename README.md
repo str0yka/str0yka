@@ -38,7 +38,9 @@ Frontend Developer from Moscow 💅
       </a>
       <br>CSS3
     </td>
-    <td align="center" width="110" height="90">
+  </tr> 
+  <tr>
+     <td align="center" width="110" height="90">
       <a href="#str0yka-stack" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
       </a>
@@ -62,7 +64,7 @@ Frontend Developer from Moscow 💅
       </a>
       <br>GitHub
     </td>
-  </tr> 
+  </tr>
 </table>
 
 > Code quality

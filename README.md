@@ -3,7 +3,7 @@
 
 Frontend Developer from Moscow 💅
 
-- :fire: &nbsp;I develop using **[TypeScript](https://www.typescriptlang.org/)**
+- :blue_heart: &nbsp;I develop using **[TypeScript](https://www.typescriptlang.org/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/stroykov)**
 
 <br>

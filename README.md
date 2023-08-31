@@ -16,13 +16,13 @@ Frontend Developer from Moscow 💅
   <tr>
     <td align="center" width="110" height="90">
       <a href="#str0yka-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
+        <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="36" height="36" alt="typescript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="110" height="90">
       <a href="#str0yka-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+        <img src="https://www.svgrepo.com/show/355081/js.svg" width="36" height="36" alt="javascript" />
       </a>
       <br>JavaScript
     </td>
@@ -34,7 +34,7 @@ Frontend Developer from Moscow 💅
     </td>
          <td align="center" width="110" height="90"> 
       <a href="#str0yka-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
+        <img src="https://www.svgrepo.com/show/349330/css3.svg" width="36" height="36" alt="css3" />
       </a>
       <br>CSS3
     </td>
@@ -42,7 +42,7 @@ Frontend Developer from Moscow 💅
   <tr>
      <td align="center" width="110" height="90">
       <a href="#str0yka-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
+        <img src="https://www.svgrepo.com/show/354987/figma.svg" width="36" height="36" alt="figma" />
       </a>
       <br>Figma
     </td>
@@ -75,13 +75,19 @@ Frontend Developer from Moscow 💅
       <a href="#str0yka-stack">
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
       </a>
-      <br>eslint
+      <br>ESLint
     </td>
     <td align="center" width="110" height="90">
       <a href="#str0yka-stack">
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
-      <br>prettier
+      <br>Prettier
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#str0yka-stack">
+        <img src="https://www.svgrepo.com/show/354405/stylelint.svg" width="36" height="36" alt="prettier" />
+      </a>
+      <br>Stylelint
     </td>
   </tr> 
 </table>
@@ -94,17 +100,17 @@ Frontend Developer from Moscow 💅
       <a href="#str0yka-stack">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
       </a>
-      <br>React JS
+      <br>React
     </td>
      <td align="center" width="110" height="90">
       <a href="#str0yka-stack" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+        <img src="https://www.svgrepo.com/show/342062/next-js.svg" width="36" height="36" alt="Next JS" />
       </a>
-      <br>Next JS
+      <br>Next
     </td>
  <td align="center" width="110" height="90">
       <a href="#str0yka-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
+        <img src="https://www.svgrepo.com/show/452093/redux.svg" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
     </td>
@@ -124,7 +130,7 @@ Frontend Developer from Moscow 💅
     <tr>
     <td align="center" width="110" height="90">
       <a href="#str0yka-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+        <img src="https://www.svgrepo.com/show/374061/sass.svg" width="36" height="36" alt="Sass" />
       </a>
       <br>SASS
     </td>
@@ -142,7 +148,7 @@ Frontend Developer from Moscow 💅
     </td>
          <td align="center" width="110" height="90">
       <a href="#str0yka-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="36" height="36" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>

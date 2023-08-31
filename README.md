@@ -3,7 +3,7 @@
 
 Frontend Developer from Moscow 💅
 
-- :fire: &nbsp;I develop using **[Typescript](https://www.typescriptlang.org/)**
+- :fire: &nbsp;I develop using **[TypeScript](https://www.typescriptlang.org/)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/stroykov)**
 
 <br>
@@ -16,7 +16,7 @@ Frontend Developer from Moscow 💅
   <tr>
     <td align="center" width="110" height="90">
       <a href="#str0yka-stack">
-        <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="36" height="36" alt="typescript" />
+        <img src="https://i.ibb.co/r0W7x4N/Type-Script.png" width="36" height="36" alt="typescript" />
       </a>
       <br>TypeScript
     </td>
@@ -98,7 +98,7 @@ Frontend Developer from Moscow 💅
   <tr>
    <td align="center" width="110" height="90">
       <a href="#str0yka-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
+        <img src="https://i.ibb.co/MB4fxFC/react.png" width="36" height="36" alt="React" />
       </a>
       <br>React
     </td>
@@ -110,7 +110,7 @@ Frontend Developer from Moscow 💅
     </td>
  <td align="center" width="110" height="90">
       <a href="#str0yka-stack" >
-        <img src="https://www.svgrepo.com/show/452093/redux.svg" width="36" height="36" alt="Redux" />
+        <img src="https://i.ibb.co/sPC44D6/redux.png" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
     </td>
@@ -148,7 +148,7 @@ Frontend Developer from Moscow 💅
     </td>
          <td align="center" width="110" height="90">
       <a href="#str0yka-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="36" height="36" alt="Bootstrap" />
+        <img src="https://i.ibb.co/Ws0k2W6/bootstrap.png" width="36" height="36" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>

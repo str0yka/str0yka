@@ -128,15 +128,27 @@ Frontend Developer from Moscow 💅
     </td> 
   </tr> 
     <tr>
+    <td align="center" width="110" height="90"> 
+      <a href="#str0yka-stack" >
+        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
+      </a>
+      <br>Apollo
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#str0yka-stack" >
+        <img src="https://raw.githubusercontent.com/AliMoallem27/AliMoallem27/main/images/react-query.png" width="36" height="36" alt="Apollo" />
+      </a>
+      <br>Tanstack Query
+    </td>
     <td align="center" width="110" height="90">
       <a href="#str0yka-stack">
         <img src="https://www.svgrepo.com/show/374061/sass.svg" width="36" height="36" alt="Sass" />
       </a>
-      <br>SASS
+      <br>SCSS
     </td>
    <td align="center" width="110" height="90">
       <a href="#str0yka-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+        <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
@@ -144,13 +156,7 @@ Frontend Developer from Moscow 💅
       <a href="#str0yka-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
       </a>
-      <br>MUI
-    </td>
-         <td align="center" width="110" height="90">
-      <a href="#str0yka-stack">
-        <img src="https://i.ibb.co/Ws0k2W6/bootstrap.png" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
+      <br>Material UI
     </td>
   </tr> 
 </table>
@@ -164,6 +170,12 @@ Frontend Developer from Moscow 💅
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Node JS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#str0yka-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
+      </a>
+      <br>GraphQL
     </td>
     <td align="center" width="110" height="90">
       <a href="#str0yka-stack" >

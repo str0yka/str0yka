@@ -4,7 +4,7 @@
   <img src="assets/header-light.svg" width="100%" alt="str0yka resting in a little garden">
 </picture>
 
-昔はボタンに色を塗ってた。今はエージェント任せ。
+<p align="center">昔はボタンに色を塗ってた。<br>今はエージェント任せ。</p>
 
 ### `~/projects`
 
